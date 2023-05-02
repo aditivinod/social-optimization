@@ -13,3 +13,7 @@ Prerequisites for installation of the Nashpy library:<br />
 The following libraries were utilies in python 3.9..7 in the Conda environment:<br />
 • Numpy - ``$ pip install numpy``<br />
 • Nashpy - `` $ pip install nashpy`` <br />
+
+## Usage
+
+Run ``optimization.ipynb`` in order to see the setup and two types of results for the toy example.
